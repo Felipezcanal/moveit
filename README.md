@@ -1,7 +1,7 @@
 # Moveit - nlw#4
 
 Full Application developed on Next Level Week #4 event by @Rocketseat
-![live demo printscreen](github.com/Felipezcanal/moveit/blob/main/livedemoprintscreen.png)
+![live demo printscreen](livedemoprintscreen.png)
 
 Feel free to try the [live demo](https://moveit-nlw-theta.vercel.app)
 
